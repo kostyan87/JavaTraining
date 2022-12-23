@@ -1,4 +1,4 @@
-package basics.first;
+package habr.first;
 
 public abstract class ArrayFinder {
     protected int[] arr;

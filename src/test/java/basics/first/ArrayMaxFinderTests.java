@@ -1,5 +1,8 @@
 package basics.first;
 
+import habr.first.ArrayFinder;
+import habr.first.ArrayMaxFinder;
+import habr.first.EmptyArrayException;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

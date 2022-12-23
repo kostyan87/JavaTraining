@@ -1,6 +1,4 @@
-package basics.first;
-
-import java.util.Arrays;
+package habr.first;
 
 public class ArrayMinFinder extends ArrayFinder {
 
