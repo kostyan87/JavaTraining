@@ -4,50 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bf982da-7948-4517-a0f1-db64646e592d" name="Changes" comment="Решена задача 1.0. Максимальное, минимальное и среднее значение">
-      <change afterPath="$PROJECT_DIR$/src/main/java/book/objects/task1/LinkChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/BackAround.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/Close10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/DelDel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/Diff21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/EndUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/EveryNth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/Front22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/Front3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/FrontBack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/HasTeen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/IcyHot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/In1020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/In3050.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/IntMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/LastDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/LoneTeen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/Makes10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/Max1020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/MissingChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/MixStart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/MonkeyTrouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/NearHundred.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/NotString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/Or35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/ParrotTrouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/PosNeg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/SleepIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/StartHi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/StartOz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/StringE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup1/SumDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/strings/CharactersCounterTest.java" afterDir="false" />
+    <list default="true" id="8bf982da-7948-4517-a0f1-db64646e592d" name="Changes" comment="Сделан Warmup-1 с codingbat">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup2/AltPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup2/Array123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup2/Array667.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup2/ArrayCount9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup2/ArrayFront9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup2/CountXXX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup2/DoubleX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup2/FrontTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup2/Has271.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup2/Last2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup2/NoTriples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup2/StringBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup2/StringMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup2/StringTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup2/StringX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingbat/warmup2/StringYak.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basics/first/ArrayFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/habr/first/ArrayFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basics/first/ArrayMaxFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/habr/first/ArrayMaxFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basics/first/ArrayMeanValueFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/habr/first/ArrayMeanValueFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basics/first/ArrayMinFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/habr/first/ArrayMinFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basics/first/EmptyArrayException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/habr/first/EmptyArrayException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/basics/first/ArrayMaxFinderTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/basics/first/ArrayMaxFinderTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/basics/first/ArrayMeanFinderTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/basics/first/ArrayMeanFinderTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/basics/first/ArrayMinFinderTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/basics/first/ArrayMinFinderTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,13 +50,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Konstantin/Work/Java Core/Java Core Habr"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -90,7 +66,7 @@
       <recent name="basics.first" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Front3">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Front3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codingbat.warmup1.Front3" />
       <module name="Java Core Habr" />
@@ -106,6 +82,26 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Java Core Habr" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringYak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingbat.warmup2.StringYak" />
+      <module name="Java Core Habr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingbat.warmup2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="Java Core Habr" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -129,6 +125,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.StringYak" />
         <item itemvalue="Application.Front3" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.CharactersCounterTest.emptyStringTest" />
@@ -151,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669229306694</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Сделан Warmup-1 с codingbat">
+      <created>1671807185234</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671807185234</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +172,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Решена задача 1.0. Максимальное, минимальное и среднее значение" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решена задача 1.0. Максимальное, минимальное и среднее значение" />
+    <MESSAGE value="Сделан Warmup-1 с codingbat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделан Warmup-1 с codingbat" />
   </component>
 </project>
